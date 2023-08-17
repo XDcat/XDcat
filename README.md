@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XDcat
 - 👀 I’m interested in coding and coding!
 - 🌱 I’m currently learning to summarize myself!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Bio Informatics.
 - 📫 How to reach me 📧zenglianjie@foxmail.com
 
 <!---
